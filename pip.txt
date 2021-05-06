@@ -1,7 +1,0 @@
-pip install tldextract
-
-pip install "tldextract==2.2.2"
-
-Powered by MR008 Tn
-
-Telegram @Mr008_TN
